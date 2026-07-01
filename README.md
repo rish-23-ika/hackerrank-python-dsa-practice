@@ -3,7 +3,7 @@
 Tracking my daily DSA practice as I build toward becoming an AI Engineer.
 
 ## Progress Log
-- Day 1: Solved "Hello World", "Python If-Else", "Arithmetic Operators", "Python: Division" , "Loops" (HackerRank)
+- Day 1: Solved "Hello World", "Python If-Else", "Arithmetic Operators", "Python: Division", "Loops", and "Print Function" (HackerRank)
 
 ## Platforms
 - HackerRank — Python basics
