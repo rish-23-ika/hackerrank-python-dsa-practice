@@ -5,11 +5,8 @@ if __name__ == '__main__':
     n = int(input())
     arr = map(int, input().split())
     
-    # 1. Convert the map to a set to remove duplicate scores
-    unique_scores = set(arr)
+    # 1. Convert to a list and sort it from smallest to largest
+    sorted_scores = sorted(list(set(arr)))
     
-    # 2. Remove the absolute maximum score from the set
-    unique_scores.remove(max(unique_scores))
-    
-    # 3. The new maximum of the remaining numbers is your runner-up!
-    print(max(unique_scores))
+    # 2. Grab the second-to-last item (the runner-up!)
+    print(sorted_scores[-2])
