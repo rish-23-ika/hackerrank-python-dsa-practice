@@ -1,12 +1,96 @@
-# HackerRank + LeetCode — Python DSA Practice
+# 🚀 HackerRank + LeetCode DSA Journey
 
-Tracking my daily DSA practice as I build toward becoming an AI Engineer.
+Welcome to my Data Structures & Algorithms practice repository.
 
-## Progress Log
-- Day 1: Solved "Hello World", "Python If-Else", "Arithmetic Operators", "Python: Division", "Loops", "Print Function" , "List Comprehensions" , "Find the Runner-Up Score!" (HackerRank)
+This repository documents my journey of learning DSA using **Python** and **C++**, solving problems on HackerRank and LeetCode while following Love Babbar's Complete Placement DSA Course.
 
-- Day 2: Solved "nested lists" "Finding the percentage" "Lists" (HackerRank)
+My goal is to build strong problem-solving skills, maintain consistency, and prepare for Software Engineering and AI Engineering interviews.
 
-## Platforms
-- HackerRank — Python basics
-- LeetCode — Easy problems, building up gradually
+---
+
+## 📂 Repository Structure
+
+```
+hackerrank-python-dsa-practice/
+│
+├── hackerrank/
+│   ├── basic_data_types/
+│   ├── introduction/
+│   ├── strings/
+│   ├── hackerrank.md
+│   └── README.md
+│
+├── leetcode/
+│   ├── arrays/
+│   ├── strings/
+│   ├── leetcode.md
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+## 📚 Learning Platforms
+
+### 🟢 HackerRank
+- Python Basics
+- Problem Solving
+- Daily Practice
+- Language Fundamentals
+
+### 🔵 LeetCode
+- Love Babbar DSA Course
+- Interview Preparation
+- DSA Patterns
+- Coding Challenges
+
+---
+
+## 📈 Progress
+
+### Love Babbar DSA
+- ✅ Lecture 1 – Introduction to Programming & Flowcharts
+- ✅ Lecture 2 – Write Your First Program in C++
+- ⏳ Continuing...
+
+### HackerRank
+- ✅ Python Introduction
+- ✅ Basic Data Types
+- ✅ Strings
+- ⏳ More topics coming soon...
+
+---
+
+## 🎯 Goals
+
+- Complete Love Babbar DSA Course
+- Solve 300+ DSA problems
+- Strengthen Data Structures & Algorithms
+- Prepare for Product-Based Company Interviews
+- Maintain consistent GitHub commits
+
+---
+
+## 🛠️ Languages & Tools
+
+- Python
+- C++
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📅 Current Status
+
+- 🔥 Learning DSA every day
+- 📖 Maintaining detailed lecture notes
+- 💻 Solving coding problems consistently
+- 🚀 Building a strong GitHub profile
+
+---
+
+### ⭐ Consistency > Intensity
+
+> *One lecture. One problem. One commit. Every day.*
