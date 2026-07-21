@@ -48,3 +48,29 @@
 - Learned that syntax errors are detected during compilation.
 
 ---
+## Lecture 3 – If-Else, While Loop & Lots of Patterns (Part-1)
+**Date:** 21 July 2026
+
+### Topics Covered
+- Conditional Statements
+- `if` Statement
+- `if-else` Statement
+- `else-if` Ladder
+- Nested `if-else`
+- Comparison Operators (`>`, `<`, `>=`, `<=`, `==`, `!=`)
+- Logical Operators (`&&`, `||`, `!`)
+- Flowcharts for Decision Making
+- While Loop Basics
+- Introduction to Pattern Problems
+
+### Notes
+- Learned how programs make decisions using conditional statements.
+- Understood the syntax and working of `if`, `if-else`, and `else-if` statements.
+- Learned how nested `if` statements are used for multiple conditions.
+- Practiced using comparison and logical operators to build complex conditions.
+- Understood how flowcharts help visualize decision-making before coding.
+- Learned the basics of the `while` loop and how it repeats code until a condition becomes false.
+- Got an introduction to pattern programming, which helps strengthen loop logic and problem-solving skills.
+
+---
+
