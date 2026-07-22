@@ -8,29 +8,6 @@ My goal is to build strong problem-solving skills, maintain consistency, and pre
 
 ---
 
-## 📂 Repository Structure
-
-```
-hackerrank-python-dsa-practice/
-│
-├── hackerrank/
-│   ├── basic_data_types/
-│   ├── introduction/
-│   ├── strings/
-│   ├── hackerrank.md
-│   └── README.md
-│
-├── leetcode/
-│   ├── arrays/
-│   ├── strings/
-│   ├── leetcode.md
-│   └── README.md
-│
-└── README.md
-```
-
----
-
 ## 📚 Learning Platforms
 
 ### 🟢 HackerRank
